@@ -1,0 +1,14 @@
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\obj\Debug\Queue Management_Ortega.csprojAssemblyReference.cache
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\obj\Debug\Queue_Management_Ortega.Form1.resources
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\obj\Debug\Queue_Management_Ortega.Form2.resources
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\obj\Debug\Queue_Management_Ortega.Properties.Resources.resources
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\obj\Debug\Queue_Management_Ortega.QueuringForm.resources
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\obj\Debug\Queue Management_Ortega.csproj.GenerateResource.cache
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\obj\Debug\Queue Management_Ortega.csproj.CoreCompileInputs.cache
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\obj\Debug\Queue_Management_Ortega.CashierWindowQueueForm.resources
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\bin\Debug\Queue Management_Ortega.exe.config
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\bin\Debug\Queue Management_Ortega.exe
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\bin\Debug\Queue Management_Ortega.pdb
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\obj\Debug\Queue_Management_Ortega.VIewForm.resources
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\obj\Debug\Queue Management_Ortega.exe
+C:\Users\paone\source\repos\Queue Management_Ortega\Queue Management_Ortega\obj\Debug\Queue Management_Ortega.pdb
